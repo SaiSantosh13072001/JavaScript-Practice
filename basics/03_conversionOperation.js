@@ -22,6 +22,20 @@ let someNumber = 33;
 
 let someString = String(someNumber);
 
-console.log(someString);
-console.log(typeof someString);
+// console.log(someString);
+// console.log(typeof someString);
+
+
+//  ***************************** Operations **********************************
+
+let value = 3
+let negValue = -value
+
+// console.log(negValue)
+
+let counter = 100
+let counter1 = ++counter
+console.log(`counter : counter1`);
+// counter++
+// console.log(counter);
 
